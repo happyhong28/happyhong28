@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <p>💃 Let me introduce my self...</p>
-<a href="https://www.notion.so/dhhong-7f9fa2d310e7427a97ab79de61178ef7" target="_blank"><img src="https://img.shields.io/badge/Notion-rgb(0,0,0)?style=flat-square&logo=notion&link=https://www.notion.so/dhhong-7f9fa2d310e7427a97ab79de61178ef7"/></a>&nbsp
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Page-rgb(0,0,0)?style=flat-square&logo=github%20sponsors&color=EA4AAA&logoColor=white&link=https://myportfolio-2d9b6.web.app/html/home.html"/></a>
+<a href="https://www.notion.so/dhhong-7f9fa2d310e7427a97ab79de61178ef7" target="_blank"><img src="https://img.shields.io/badge/Notion-rgb(0,0,0)?style=flat-square&logo=notion&link=https://www.notion.so/dhhong-7f9fa2d310e7427a97ab79de61178ef7"/></a>
+<a href="https://myportfolio-2d9b6.web.app/html/home.html" target="_blank"><img src="https://img.shields.io/badge/Page-rgb(0,0,0)?style=flat-square&logo=github%20sponsors&color=EA4AAA&logoColor=white&link=https://myportfolio-2d9b6.web.app/html/home.html"/></a>
 </br></br>
 
 
@@ -32,14 +32,13 @@ Here are some ideas to get you started:
 </br></br>
 
 <p>✏️ I’m currently learning...</p>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Angular-rgb(0,0,0)?style=flat-square&logo=angular&color=DD0031&logoColor=white"/></a>&nbsp
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Angular-rgb(0,0,0)?style=flat-square&logo=angular&color=DD0031&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-rgb(0,0,0)?style=flat-square&logo=React&color=61DAFB&logoColor=333"/></a>&nbsp
+</br></br>
 
 
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyhong28&show_icons=true&theme=swift)
 
 
 
